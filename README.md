@@ -1,6 +1,8 @@
 # installation-guide-templates 👩🏼‍💻
 
-Welcome to this repository! This repository is intended to provide installation guides and templates for the libraries and frameworks that the author frequently uses.
+Welcome to this repository! 
+
+This repository is intended to provide installation guides and templates for the libraries and frameworks that the author frequently uses.
 
 In addition to the installation guides, this repository also includes templates that can be used as starting points for projects using the covered libraries and frameworks. These templates can save you time by providing a basic structure and set of configuration files that you can use as a foundation for your own projects.
 
