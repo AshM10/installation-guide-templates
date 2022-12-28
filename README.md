@@ -7,11 +7,11 @@ In addition to the installation guides, this repository also includes templates 
 We hope that these resources will be helpful to you as you work with the libraries and frameworks featured in this repository. If you have any questions or need further assistance, feel free to reach out to the author or open an issue in the repository.
 
 ## Table Of Contents 🧾
-### [Getting Started](#getting-started)
-### [Create React App](#create-react-app)
-### [React with Vite](#react-with-vite)
-### [README File App Template](#readme-file-app-template)
-### [Author](#author)
+- ### [Getting Started](#getting-started)
+- ### [Create React App](#create-react-app)
+- ### [React with Vite](#react-with-vite)
+- ### [README File App Template](#readme-file-app-template)
+- ### [Author](#author)
 
 ## Getting Started 🏁
 
