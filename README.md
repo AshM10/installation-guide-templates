@@ -1,21 +1,32 @@
-# installation-guide-templates
+# installation-guide-templates 👩🏼‍💻
 
-- This repository is made for installation guide for libraries and frameworks the author uses most of the time. 
+Welcome to this repository! This repository is intended to provide installation guides and templates for the libraries and frameworks that the author frequently uses.
 
-## Table Of Contents
+In addition to the installation guides, this repository also includes templates that can be used as starting points for projects using the covered libraries and frameworks. These templates can save you time by providing a basic structure and set of configuration files that you can use as a foundation for your own projects.
+
+We hope that these resources will be helpful to you as you work with the libraries and frameworks featured in this repository. If you have any questions or need further assistance, feel free to reach out to the author or open an issue in the repository.
+
+## Table Of Contents 🧾
+### [Getting Started](#getting-started)
 ### [Create React App](#create-react-app)
 ### [React with Vite](#react-with-vite)
 ### [README File App Template](#readme-file-app-template)
 ### [Author](#author)
 
-## [Create React App](https://github.com/AshM10/installation-guide-templates/blob/main/create-react-app.md)
+## Getting Started 🏁
+
+1. You will need to make sure you have the necessary dependencies installed on your system. This may include package managers such as npm or yarn for JavaScript libraries.
+
+2. Once you have the dependencies set up, you can use the provided installation guides to install the various libraries and frameworks that are covered in this repository. The guides should provide step-by-step instructions on how to install and set up each library or framework.
+
+## [Create React App](https://github.com/AshM10/installation-guide-templates/blob/main/create-react-app.md) 🆕
 
 - Create React App is a command-line utility that generates a basic React application for you. 
 It is a tool built by the React team at Facebook, and it helps you set up a new React project by creating a development 
 environment with a preconfigured build setup and a simple development server. It is designed to be easy to use and 
 helps you get your React application up and running quickly.
 
-## [React with Vite](https://github.com/AshM10/installation-guide-templates/blob/main/react-with-vite.md)
+## [React with Vite](https://github.com/AshM10/installation-guide-templates/blob/main/react-with-vite.md) 🏃🏼‍♀️
 
 - Vite (pronounced like "beet") is a modern frontend development build tool that was created to address some of the issues with traditional frontend build tools, such as Webpack. It is designed to be lightweight, fast, and easy to use, and is especially well-suited for building small-to-medium sized projects.
 
@@ -23,7 +34,7 @@ helps you get your React application up and running quickly.
 
 - Vite is not part of the React ecosystem, but it can be used as the build tool for a React project. If you are using React with Vite, you will still need to install React and any other dependencies that your project requires.
 
-## [README File App Template](https://github.com/AshM10/installation-guide-templates/blob/main/readme-file-app-template.md)
+## [README File App Template](https://github.com/AshM10/installation-guide-templates/blob/main/readme-file-app-template.md) 🤓
 
 - A README is a text file that provides information about a project or repository. It is often the first file that a user encounters when they access a project, and it is typically used to provide an overview of the project, explain how to set it up and use it, and list any known issues or limitations.
 
@@ -31,6 +42,6 @@ helps you get your React application up and running quickly.
 
 - In general, a README is an important resource for users to understand and use a project effectively. It helps users get started quickly and can save them time and frustration by providing clear and concise instructions and information.
 
-## Author
+## Author 👸🏼
 
 Connect with ASTHER MORENO on [LinkedIn](https://www.linkedin.com/in/asthermoreno10/) and [Twitter](https://twitter.com/sexy_gravy)
