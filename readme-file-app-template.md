@@ -1,5 +1,3 @@
-# README File App Template
-
 # App Name 👩🏼‍💻
 
 A brief description of the app and its purpose.
