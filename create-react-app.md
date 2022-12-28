@@ -1,6 +1,6 @@
 # Create React App
 
-## Installation
+## Setup
 
 - To use Create React App, you need to have Node.js and npm (the Node Package Manager) installed on your machine. 
 
@@ -31,3 +31,7 @@ to start the development server and build the app for production.
 - Create React App is a great way to get started with a new React project, 
 especially if you are new to React and want a simple way to set up a development environment. 
 It handles all of the configuration for you, so you can focus on building your application.
+
+## Resources
+
+- [React Docs Beta](https://beta.reactjs.org)
