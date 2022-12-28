@@ -5,6 +5,7 @@
 ## Table Of Contents
 ### [Create React App](#create-react-app)
 ### [React with Vite](#react-with-vite)
+### [Author](#author)
 
 ## [Create React App](https://github.com/AshM10/installation-guide-templates/blob/main/create-react-app.md)
 
@@ -21,3 +22,6 @@ helps you get your React application up and running quickly.
 
 - Vite is not part of the React ecosystem, but it can be used as the build tool for a React project. If you are using React with Vite, you will still need to install React and any other dependencies that your project requires.
 
+## Author
+
+Connect with ASTHER MORENO on [LinkedIn](https://www.linkedin.com/in/asthermoreno10/) and [Twitter](https://twitter.com/sexy_gravy)
