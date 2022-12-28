@@ -22,8 +22,9 @@ to start the development server and build the app for production.
 
 4. Start the development server by running the following command:
 
-`npm start` *starts the development server*
-`npm run build` *builds the app for production*
+``` npm start ``` *starts the development server*
+
+``` npm run build ``` *builds the app for production*
 
 5. Open the src directory in your code editor and start building your React app!
 
