@@ -14,6 +14,7 @@ We hope that these resources will be helpful to you as you work with the librari
 - ### [React with Vite](#react-with-vite)
 - ### [README File App Template](#readme-file-app-template)
 - ### [Commit Txt Template](#commit-txt-template)
+- ### [TailwindCSS in React](#tailwind-css-in-react)
 - ### [Author](#author)
 
 ## Getting Started 🏁
@@ -50,6 +51,16 @@ helps you get your React application up and running quickly.
 - In Git, a commit is a snapshot of the changes made to a repository, or a set of files managed by Git. When you make changes to a repository and want to save those changes permanently, you create a commit. Each commit has a unique identifier, called a commit hash, and a message that describes the changes made in the commit.
 
 - The commit.txt file may contain information about a specific commit, such as the commit hash, the commit message, and the names and locations of the files that were changed in the commit. It is common to use a text file to store this information because it is easy to read and modify.
+
+## [TailwindCSS in React](https://github.com/AshM10/installation-guide-templates/blob/main/tailwindcss-react.md)
+
+- Tailwind CSS is a CSS framework that provides a set of utility classes for styling HTML elements. It is designed to be a low-level, themeable foundation that you can use to build your own design system on top of.
+
+- Tailwind CSS is different from other CSS frameworks like Bootstrap or Foundation, in that it does not provide any pre-designed UI components. Instead, it provides a set of utility classes that you can use to style your own custom UI components. This means that you have full control over the look and feel of your app, and can customize it to match your specific design requirements.
+
+- Tailwind CSS is based on the concept of "utility-first" CSS, which means that it provides a set of classes that apply specific styles to elements, rather than defining a set of predesigned UI components. This allows you to build your UI quickly and easily, without having to worry about creating custom styles for each element.
+
+- Overall, tailwindcss is a powerful tool that can help you quickly and easily build custom, responsive, and mobile-friendly UI components for your web projects.
 
 ## Author 👸🏼
 
