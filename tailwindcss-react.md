@@ -1,5 +1,7 @@
 # TailwindCSS in React
 
+## Installation
+
 To install tailwindcss on a react app using yarn, follow these steps:
 
 1. Open a terminal window and navigate to the root directory of your react app.
@@ -31,3 +33,6 @@ This will create a tailwind.config.js file in the root directory of your project
 
 This will generate an output file called tailwind.output.css that contains the compiled tailwindcss styles. You can then reference this file in your HTML file or import it into your react components as needed.
 
+## Resources
+
+- [Tailwind CSS Official Docs](https://tailwindcss.com)
