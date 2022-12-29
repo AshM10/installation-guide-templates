@@ -13,6 +13,7 @@ We hope that these resources will be helpful to you as you work with the librari
 - ### [Create React App](#create-react-app)
 - ### [React with Vite](#react-with-vite)
 - ### [README File App Template](#readme-file-app-template)
+- ### [Commit Txt Template](#commit-txt-template)
 - ### [Author](#author)
 
 ## Getting Started 🏁
@@ -43,6 +44,12 @@ helps you get your React application up and running quickly.
 - A README is typically written in plain text, but it can also include formatting and links to other resources. It is commonly used in software projects to provide users with instructions for building and running the code, as well as a list of dependencies and any other requirements. It may also include information about the project's history, contributors, and license.
 
 - In general, a README is an important resource for users to understand and use a project effectively. It helps users get started quickly and can save them time and frustration by providing clear and concise instructions and information.
+
+## [Commit Txt Template](https://github.com/AshM10/installation-guide-templates/blob/main/commit.txt)
+
+- In Git, a commit is a snapshot of the changes made to a repository, or a set of files managed by Git. When you make changes to a repository and want to save those changes permanently, you create a commit. Each commit has a unique identifier, called a commit hash, and a message that describes the changes made in the commit.
+
+- The commit.txt file may contain information about a specific commit, such as the commit hash, the commit message, and the names and locations of the files that were changed in the commit. It is common to use a text file to store this information because it is easy to read and modify.
 
 ## Author 👸🏼
 
