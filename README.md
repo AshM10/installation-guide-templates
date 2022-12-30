@@ -62,6 +62,10 @@ helps you get your React application up and running quickly.
 
 - Overall, tailwindcss is a powerful tool that can help you quickly and easily build custom, responsive, and mobile-friendly UI components for your web projects.
 
+## [Git Cheat Sheet](https://github.com/AshM10/installation-guide-templates/blob/main/git-cheat-sheet.md)
+
+- Git is a version control system that allows you to track changes to your code and collaborate with other developers.
+
 ## Author 👸🏼
 
 Connect with ASTHER MORENO on [LinkedIn](https://www.linkedin.com/in/asthermoreno10/) and [Twitter](https://twitter.com/sexy_gravy)
