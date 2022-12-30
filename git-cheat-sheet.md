@@ -72,7 +72,7 @@ Or Add all files to the staging area:
 
 4. Commit changes with a message:
 
-``` Commit changes with a message:```
+``` git commit -m "commit message" ```
 
 5. Push changes to a remote repository:
 
