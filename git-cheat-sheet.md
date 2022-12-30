@@ -120,6 +120,6 @@ Or Add all files to the staging area:
 
 ## Screenshots
 
-<img width="520" alt="Screenshot 2022-12-29 at 10 31 20 PM" src="https://user-images.githubusercontent.com/89284873/210034676-eb993e9d-11fc-46a8-b4ff-263f483f9cfa.png">
+<img width="800" alt="Screenshot 2022-12-29 at 10 31 20 PM" src="https://user-images.githubusercontent.com/89284873/210034676-eb993e9d-11fc-46a8-b4ff-263f483f9cfa.png">
 
-<img width="520" alt="Screenshot 2022-12-29 at 10 31 39 PM" src="https://user-images.githubusercontent.com/89284873/210034693-1603e926-4996-4588-8934-635a7f2d48c7.png">
+<img width="800" alt="Screenshot 2022-12-29 at 10 31 39 PM" src="https://user-images.githubusercontent.com/89284873/210034693-1603e926-4996-4588-8934-635a7f2d48c7.png">
