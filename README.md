@@ -15,6 +15,7 @@ We hope that these resources will be helpful to you as you work with the librari
 - ### [README File App Template](#readme-file-app-template)
 - ### [Commit Txt Template](#commit-txt-template)
 - ### [TailwindCSS in React](#tailwind-css-in-react)
+- ### [Git Cheat Sheet](#git-cheat-sheet)
 - ### [Author](#author)
 
 ## Getting Started 🏁
