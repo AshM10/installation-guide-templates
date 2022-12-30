@@ -50,6 +50,18 @@ Or Add all files to the staging area:
 
 ``` git reset --hard HEAD~<number of commits> ```
 
+12. Initialize a new Git repository:
+
+``` git init ```
+
+13. View commit history:
+
+``` git log ```
+
+14. For a complete list and most detailed information, you can refer to the Git documentation or use this command:
+
+``` git --help```
+
 ## Resources
 
 - [Git Official Docs](https://git-scm.com/docs)
