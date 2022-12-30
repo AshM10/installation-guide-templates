@@ -47,13 +47,13 @@ helps you get your React application up and running quickly.
 
 - In general, a README is an important resource for users to understand and use a project effectively. It helps users get started quickly and can save them time and frustration by providing clear and concise instructions and information.
 
-## [Commit Txt Template](https://github.com/AshM10/installation-guide-templates/blob/main/commit.txt)
+## [Commit Txt Template](https://github.com/AshM10/installation-guide-templates/blob/main/commit.txt) 💌
 
 - In Git, a commit is a snapshot of the changes made to a repository, or a set of files managed by Git. When you make changes to a repository and want to save those changes permanently, you create a commit. Each commit has a unique identifier, called a commit hash, and a message that describes the changes made in the commit.
 
 - The commit.txt file may contain information about a specific commit, such as the commit hash, the commit message, and the names and locations of the files that were changed in the commit. It is common to use a text file to store this information because it is easy to read and modify.
 
-## [TailwindCSS in React](https://github.com/AshM10/installation-guide-templates/blob/main/tailwindcss-react.md)
+## [TailwindCSS in React](https://github.com/AshM10/installation-guide-templates/blob/main/tailwindcss-react.md) 💃🏼
 
 - Tailwind CSS is a CSS framework that provides a set of utility classes for styling HTML elements. It is designed to be a low-level, themeable foundation that you can use to build your own design system on top of.
 
@@ -63,7 +63,7 @@ helps you get your React application up and running quickly.
 
 - Overall, tailwindcss is a powerful tool that can help you quickly and easily build custom, responsive, and mobile-friendly UI components for your web projects.
 
-## [Git Cheat Sheet](https://github.com/AshM10/installation-guide-templates/blob/main/git-cheat-sheet.md)
+## [Git Cheat Sheet](https://github.com/AshM10/installation-guide-templates/blob/main/git-cheat-sheet.md) 📝
 
 - Git is a version control system that allows you to track changes to your code and collaborate with other developers.
 
