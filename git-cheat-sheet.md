@@ -117,6 +117,7 @@ Or Add all files to the staging area:
 ## Resources
 
 - [Git Official Docs](https://git-scm.com/docs)
+- [7 tips for improving your productivity with Git](https://dev.to/dgenezini/7-tips-for-improving-your-productivity-with-git-ajg)
 
 ## Screenshots
 
