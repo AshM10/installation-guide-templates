@@ -16,6 +16,7 @@ We hope that these resources will be helpful to you as you work with the librari
 - ### [Commit Txt Template](#commit-txt-template)
 - ### [TailwindCSS in React](#tailwind-css-in-react)
 - ### [Git Cheat Sheet](#git-cheat-sheet)
+- ### [CSS Normalization](#css-normalization)
 - ### [Author](#author)
 
 ## Getting Started 🏁
@@ -66,6 +67,10 @@ helps you get your React application up and running quickly.
 ## [Git Cheat Sheet](https://github.com/AshM10/installation-guide-templates/blob/main/git-cheat-sheet.md) 📝
 
 - Git is a version control system that allows you to track changes to your code and collaborate with other developers.
+
+## [CSS Normalization](https://github.com/AshM10/installation-guide-templates/blob/main/css-normalization.css)
+
+CSS normalization is the process of making default styles consistent across different browsers. This is done by resetting or "normalizing" the default styles of HTML elements to a common set of values, in order to reduce the amount of browser-specific CSS that needs to be written. This can be achieved using a CSS reset or normalization stylesheet, which is applied to the webpage before any other styles are applied. This helps to ensure that the layout and design of a webpage is consistent across different browsers and devices.
 
 ## Author 👸🏼
 
